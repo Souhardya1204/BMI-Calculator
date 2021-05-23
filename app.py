@@ -22,7 +22,7 @@ def CalculateBMI(h,w):
     bmi=(w/(h*h))*10000
     return round(bmi,2)
 
-app.run(debug=True)
+
 
 
 
